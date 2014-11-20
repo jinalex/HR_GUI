@@ -1,0 +1,4 @@
+IT|The information technology department|John Johnson
+Sales|Sell things|Jane Brooks
+New Dept|Something|Person
+Finance|They do something.|Cashman
