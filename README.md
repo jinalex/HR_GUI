@@ -1,4 +1,4 @@
 HR_GUI
 ======
 
-A java project using GUI to make a basic HR data system.
+Tinkering with java GUI to make a basic Human Resource data system.
